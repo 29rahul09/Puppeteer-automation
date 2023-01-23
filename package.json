@@ -19,6 +19,7 @@
   "dependencies": {
     "csv-writer": "^1.6.0",
     "csvtojson": "^2.0.10",
-    "puppeteer": "^19.5.2"
+    "puppeteer": "^19.5.2",
+    "puppeteer-firefox": "^0.5.1"
   }
 }
